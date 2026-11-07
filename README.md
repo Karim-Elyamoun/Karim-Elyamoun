@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋, I'm Karim EL YAMOUN
+
+I am a Software Engineering and Data Science enthusiast, currently completing my Bachelor's degree in Mathematics and Computer Science (SMI) at Ibn Tofaïl University. I am passionate about solving complex problems and building efficient logic-driven applications.
+
+### 💻 Tech Stack & Tools:
+* **Languages:** C, Python, SQL
+* **Environment:** Linux (Ubuntu / WSL2), Git
+* **Focus Areas:** Object-Oriented Programming, Algorithm Optimization, and Data Science.
+
+### 🚀 What I'm doing:
+* 🎓 Studying at Université Ibn Tofaïl (6th semester).
+* ⚙️ Building projects in C (memory management, low-level programming) and Python.
+* 🧠 Exploring Artificial Intelligence and Machine Learning concepts.
+
+### 📫 Connect with me:
+* **LinkedIn:** [Karim EL YAMOUN](https://www.linkedin.com/in/karim-elyamoun)
