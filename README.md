@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Karim EL YAMOUN
+I'm Karim EL YAMOUN
 
 🎓 **Master’s Student in Intelligent Systems Engineering (ISI) & M1 ACSYON International**  
 🏛️ *Université Ibn Tofaïl (Kénitra) & Université de Limoges (France)*  
@@ -42,6 +42,21 @@ I am passionate about **Artificial Intelligence**, **Mathematical Optimization**
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
 
 <!--
 **Karim-Elyamoun/Karim-Elyamoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
