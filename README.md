@@ -1,4 +1,4 @@
-#I'm Karim EL YAMOUN
+* I'm Karim EL YAMOUN
 
 🎓 **Master’s Student in Intelligent Systems Engineering (ISI) & M1 ACSYON International**  
 🏛️ *Université Ibn Tofaïl (Kénitra) & Université de Limoges (France)*  
